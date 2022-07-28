@@ -1,0 +1,10 @@
+En esta semana me dedique ha aprender conceptos basicos de python, esos recursos son los siguientes:
+print(Como imprimir en pantalla)
+input(Leer datos ingresados por el usuario)
+if(Condición si, evaluar condiciones y hacer acciones solo si se cumple la condición)
+while(ciclo repetitivo para hacer más facil la repetición de funciones)
+contadores(Usar un contador para salir del while)
+For(Lo veremos completo la otra semana pero ya se uso en esta SEMANA_3)
+Arrays(Como funcionan)
+
+La otra semana se espera estudiar las librerias de python y hacer proyectos más grandes
