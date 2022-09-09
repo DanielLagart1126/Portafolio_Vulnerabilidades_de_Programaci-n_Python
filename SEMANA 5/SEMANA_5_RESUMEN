@@ -1,0 +1,19 @@
+Resumen de lo aprendido de la semana 5
+En esta semana vimos que es un array dimencional:
+  Es un array normal solo que tiene la diferencia de que esta es un array dentro de otro array 
+  ejemplo:
+  [array unidimensional]:1,2,3,4,5,6,7,8,9
+  
+  [array bidimensional]:1,2,3,4,5,6,7,8,9
+                        1,2,3,4,5,6,7,8,9
+  en algunos lenguajes al bidimencional de le llama mapa
+  
+  Tambien en esta semana vimos programación orientada a objetos:
+  La programación orientada a objetos se basa en el concepto de crear un modelo del problema de 
+  destino en sus programas. La programación orientada a objetos disminuye los errores y promociona
+  la reutilización del código.
+  
+  lo primero que aprendimos de POO son las Clases:
+  sirven para ejecutar funciones cuando se llame la clase sin necesidad de estar haciendo el procedimiento no por uno
+  
+  Esto es lo que aprendimos en esta SEMANA 5
